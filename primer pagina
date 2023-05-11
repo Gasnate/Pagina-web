@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>Mi primera pagina web </title>	
+</head>
+<body background="d7d0248afd129f3892256bcbf6466fc2.jpg">
+<font color="aqua" size=<"20">
+<body>
+<center><b>Mi primer pagina web<font/><br>
+Para Computacion basica ll<br>
+Con Wendoline Sandoval Trasviña<br>
+Hoy:Estructura basica y texto<br><br></center>
+
+<font color="orange" face "britannic bold" size="5">
+<h1>Cada dia mas Politecnico</h1>
+<h2>Cada dia mas Politecnico</h2>
+<h3>Cada dia mas Politecnico</h3>
+<h4>Cada dia mas Politecnico</h4>
+<h5>Cada dia mas Politecnico</h5>
+<h6>Cada dia mas Politecnico</h6>
+
+<b>Obvio me esforze</b>.....<i><u>Ultimo 
+jalon</i></u><br>
+<t>Aprobare</t><br>
+H<sub>2</sub>O<br><br>
+x<sub>2</sup>+y<sub>2</sup><br>
+<font size=10 color="coral" face="forte"> La tecnica al servicio  de la Patria</font><br>
+<font size=10 color="aqua" face="Arial Rounded MT"> La tecnica al servicio  de la Patria</font><br>
+<font size=10 color="teal" face="Algerian"> La tecnica al servicio  de la Patria</font><br>
+<font size=10 color="navy" face="Agency FB"> La tecnica al servicio  de la Patria</font><br>
+<font size=10 color="green" face="Baskerville Old Face"> La tecnica al servicio  de la Patria</font><br>
+<font size=10 color="lime" face="Bell MT"> La tecnica al servicio  de la Patria</font><br>
+<font size=10 color="purple" face="Blackadder ITC"> La tecnica al servicio  de la Patria</font><br>
+<font size=20 color="teal" face="Algerian">MISION</font><br>
+
+<p aling="right">Institución académica del área de ingeniería y ciencias fisicomatemáticas en el Nivel Medio Superior del Instituto Politécnico Nacional, que forma integralmente capital humano competente y con responsabilidad social, a través de programas académicos de calidad en modalidad presencial de técnico en: Aeronáutica, Computación, Manufactura Asistida por Computadora, Sistemas Automotrices, Sistemas de Control Eléctrico, Sistemas Digitales y el Programa en modalidad mixta de Técnico en Computación; conjuntamente con procesos e infraestructura certificados y personal altamente capacitado, para satisfacer las necesidades de los sectores social, público y privado contribuyendo al desarrollo del país. </p>
+<p align="center">Institución académica del área de ingeniería y ciencias fisicomatemáticas en el Nivel Medio Superior del Instituto Politécnico Nacional, que forma integralmente capital humano competente y con responsabilidad social, a través de programas académicos de calidad en modalidad presencial de técnico en: Aeronáutica, Computación, Manufactura Asistida por Computadora, Sistemas Automotrices, Sistemas de Control Eléctrico, Sistemas Digitales y el Programa en modalidad mixta de Técnico en Computación; conjuntamente con procesos e infraestructura certificados y personal altamente capacitado, para satisfacer las necesidades de los sectores social, público y privado contribuyendo al desarrollo del país. </p>
+<p align="justify">Institución académica del área de ingeniería y ciencias fisicomatemáticas en el Nivel Medio Superior del Instituto Politécnico Nacional, que forma integralmente capital humano competente y con responsabilidad social, a través de programas académicos de calidad en modalidad presencial de técnico en: Aeronáutica, Computación, Manufactura Asistida por Computadora, Sistemas Automotrices, Sistemas de Control Eléctrico, Sistemas Digitales y el Programa en modalidad mixta de Técnico en Computación; conjuntamente con procesos e infraestructura certificados y personal altamente capacitado, para satisfacer las necesidades de los sectores social, público y privado contribuyendo al desarrollo del país. </p>
+
+<marquee>Dante Gabriel</marquee>
+<!--Dirección: izq, derecha, arriba y abajo-->
+<marquee direction="right">Dante Gabriel</marquee>
+<marquee direction="up">Dante Gabriel</marquee>
+<marquee direction="down">Dante Gabriel</marquee>
+<!--Comportamiento-->
+<marquee behavior="alternate">Pichardo</marquee>
+<marquee behavior="slide">Pichardo</marquee>
+<marquee behavior="scroll">Pichardo</marquee>
+<!--Velocidad-->
+<marquee scrolldelay="50">Gonzalez</marquee>
+<marquee scrolldelay="500">Gonzalez</marquee>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+</body>
+</html>
